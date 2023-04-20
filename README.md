@@ -1,6 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=1000&color=7289DADA&center=true&vCenter=true&size=40&width=1920&height=100&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Orggis!;+Top+1+Finland+datanom(i)+%F0%9F%94%A5;I+currently+work+as+a+federal+agent+%E2%9C%A8)](https://github.com/Orggis)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Orggis&label=Profile%20views&color=0e75b6&style=flat" alt="Orggis" /> </p>
+<p align="center">
+    <a href="https://discordapp.com/users/289105217155497984" target="blank_">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-Orggis%237605-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20?color=000'">
+    </a>  
+    <a href="https://github.com/Orggis" target="blank_">
+        <img alt="Github" src="https://img.shields.io/github/followers/Orggis?color=000&logo=github&label=Followers&logoColor=7289DA&style=for-the-badge" />
+   </a>    
+    <a href="https://www.twitch.tv/originaali" target="blank_">
+        <img alt="HC-Discord" src="https://img.shields.io/twitch/status/originaali?color=000&label=Originaali&logo=twitch&logoColor=7289DA&style=for-the-badge" />
+   </a>
+   <a>
+        <img width="180" height="28" src="https://komarev.com/ghpvc/?username=ORGGIS&style=for-the-badge&color=7289DA" alt="orggis" />
+   </a>
+</p>
+
 
 - 🔭 I’m currently working on [HellCityRP](https://github.com/Hellcity)
 
