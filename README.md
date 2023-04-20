@@ -3,7 +3,10 @@
 <p align="center">
     <a href="https://discordapp.com/users/289105217155497984" target="blank_">
         <img alt="Discord" src="https://img.shields.io/badge/Discord-Orggis%237605-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20?color=000'">
-    </a>  
+    </a>
+        <a href="https://discord.gg/hellcityrp" target="blank_">
+        <img alt="HC-Discord" src="https://img.shields.io/discord/423048662206119937?color=000&label=HELLCITY&logo=discord&logoColor=7289DA&style=for-the-badge" />
+    </a>
     <a href="https://github.com/Orggis" target="blank_">
         <img alt="Github" src="https://img.shields.io/github/followers/Orggis?color=000&logo=github&label=Followers&logoColor=7289DA&style=for-the-badge" />
    </a>    
