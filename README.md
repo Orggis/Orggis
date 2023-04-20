@@ -11,7 +11,7 @@
         <img alt="HC-Discord" src="https://img.shields.io/twitch/status/originaali?color=000&label=Originaali&logo=twitch&logoColor=7289DA&style=for-the-badge" />
    </a>
    <a>
-        <img width="180" height="28" src="https://komarev.com/ghpvc/?username=AIK-10&style=for-the-badge&color=7289DA" alt="aik-10" />
+        <img width="180" height="28" src="https://komarev.com/ghpvc/?username=Aik-10&style=for-the-badge&color=7289DA" alt="orggis" />
    </a>
 </p>
 
