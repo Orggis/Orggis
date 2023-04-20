@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=1000&color=7289DADA&center=true&vCenter=true&size=40&width=1920&height=100&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Orggis!;Finland's+best+datanom+%F0%9F%94%A5;I+currently+work+as+a+federal+agent+%E2%9C%A8)](https://github.com/Orggis)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=1000&color=7289DADA&center=true&vCenter=true&size=40&width=1920&height=100&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Orggis!;+Top+1+Finland+datanom(i)+%F0%9F%94%A5;I+currently+work+as+a+federal+agent+%E2%9C%A8)](https://github.com/Orggis)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Orggis&label=Profile%20views&color=0e75b6&style=flat" alt="Orggis" /> </p>
 
