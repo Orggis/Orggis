@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orggis!</h1>
 <h3 align="center">Toptier developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orggis&label=Profile%20views&color=0e75b6&style=flat" alt="orggis" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Orggis&label=Profile%20views&color=0e75b6&style=flat" alt="Orggis" /> </p>
 
 - 🔭 I’m currently working on [HellCityRP](https://github.com/Hellcity)
 
