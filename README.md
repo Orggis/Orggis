@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Orggis!</h1>
-<h3 align="center">Toptier developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=1000&color=7289DADA&center=true&vCenter=true&size=40&width=1920&height=100&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Orggis!;Finland's+best+datanom+%F0%9F%94%A5;I+currently+work+as+a+federal+agent+%E2%9C%A8)](https://github.com/Orggis)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Orggis&label=Profile%20views&color=0e75b6&style=flat" alt="Orggis" /> </p>
 
@@ -20,7 +19,6 @@
 ![LUA](https://camo.githubusercontent.com/1fdf319372e079341e66ca7fbc4225bb2738b6a0d0a2bfd525985050609b453d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c75612d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4c7561266c6f676f436f6c6f723d373238394441) ![MySql](https://camo.githubusercontent.com/4fa25255556fbbb42f9c0efa26b04c2c74e5497f718c41d6c58ee8fe67a01935/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7973716c2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4d7973716c266c6f676f436f6c6f723d373238394441) ![GIT](https://camo.githubusercontent.com/c1009c6fc1c23e94ee4cf8041580d2759dda39f9c0287d6869b3e806423b4300/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d373238394441) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Orggis&show_icons=true&locale=en&layout=compact" alt="Orggis" /></p>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ortonikc&theme=discord&no-frame=false&no-bg=true&margin-w=4)
